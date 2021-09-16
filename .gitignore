@@ -1,0 +1,10 @@
+*.bin
+*.hex
+*.zip
+/modules
+/build
+/tools
+/.west
+/.ccache
+/.cache
+.bash_history
