@@ -1,0 +1,6 @@
+[submodule "zephyr"]
+	path = zephyr
+	url = https://github.com/zephyrproject-rtos/zephyr.git
+[submodule "mcuboot"]
+	path = mcuboot
+	url = https://github.com/mcu-tools/mcuboot.git

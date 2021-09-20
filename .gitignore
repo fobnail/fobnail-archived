@@ -1,0 +1,11 @@
+*.bin
+*.hex
+*.zip
+/build
+/bootloader
+/modules
+/tools
+/.west
+/.ccache
+/.cache
+.bash_history
